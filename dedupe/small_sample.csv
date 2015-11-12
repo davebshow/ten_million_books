@@ -1,0 +1,1000 @@
+Id,City,Country
+0,Madrid, España
+1,Bogotá,
+2,Santiago, Chile
+3,Ponta Delgada,
+4,Buenos Aires, Argentina
+5,Buenos Aires, Argentina
+6,Leon,
+7,Rio Piedras, P.R.
+8,Rio de Janeiro,
+9,New York, NY
+10,Buenos Aires, Argentina
+11,Madrid, España
+12,Barcelona, España
+13,Curitiba,
+14,Tegucigalpa,
+15,Guatemala, Guatemala
+16,Rio de Janeiro,
+17,Madrid, España
+18,México,
+19,Xalapa, México
+20,La Habana,
+21,San Juan de Puerto Rico,
+22,Lima,
+23,Madrid, España
+24,Madrid, España
+25,Rio de Janeiro,
+26,Madrid, España
+27,New York, NY
+28,México, D.F
+29,Madrid, España
+30,Madrid, España
+31,São Paulo, Brasil
+32,Ginebra [Geneva,
+33,São Paulo, Brasil
+34,Santiago,
+35,Brazil,
+36,Madrid, España
+37,Rio de Janeiro,
+38,Santiago, Chile
+39,Madrid, España
+40,Pamplona,
+41,Madrid, España
+42,México,
+43,Zaragoza,
+44,Paris,
+45,Buenos Aires, Argentina
+46,Caracas,
+47,Madrid, España
+48,México,
+49,La Plata,
+50,Caracas, Venezuela
+51,Buenos Aires, Argentina
+52,México,
+53,Lisboa, Portugal
+54,Bogotá,
+55,Huancayo, Perú
+56,Brazil,
+57,La Paz, Bolivia
+58,México,
+59,Madrid, España
+60,Angola,
+61,Beijing,
+62,Salamanca,
+63,México,
+64,Panamá, Rep. de P
+65,México,
+66,Bahía Blanca,
+67,San José, C.R.
+68,Madrid, España
+69,Rio de Janeiro,
+70,,
+71,Managua, Nicaragua
+72,Barcelona, España
+73,São Paulo, Brasil
+74,Santander,
+75,Ciudad de La Habana,
+76,São Paulo, Brasil
+77,Gijón,
+78,Lima,
+79,Bogotá, D.E
+80,Lima, Perú
+81,La Habana,
+82,Cuenca,
+83,Rio de Janeiro, RJ
+84,Rio de Janeiro,
+85,Madrid, España
+86,México,
+87,Rio de Janeiro,
+88,Madrid, España
+89,La Paz,
+90,Curitiba,
+91,Brasília,
+92,Caracas,
+93,México,
+94,Quito,
+95,La Paz, Bolivia
+96,Madrid, España
+97,San Juan, P.R
+98,Boquim [Brazil,
+99,Madrid, España
+100,Madrid, España
+101,Rio de Janerio,
+102,Madrid, España
+103,La Rioja,
+104,Lima, Perú
+105,Habana,
+106,Lima,
+107,Rio de Janeiro,
+108,Rio de Janeiro, Brasil
+109,Buenos Aires, Argentina
+110,Bogotá, Colombia
+111,Bogotá,
+112,Lerida [Spain,
+113,Buenos Aires, Argentina
+114,Madrid, España
+115,Buenos Aires, Argentina
+116,Buenos Aires, Argentina
+117,Madrid, España
+118,México,
+119,Buenos Aires, Argentina
+120,Filadelfia,
+121,Lakewood, Colo
+122,Oajaca,
+123,México,
+124,Montevideo,
+125,Petrópolis,
+126,Barcelona, España
+127,Madrid, España
+128,San Juan, P.R
+129,Brasília,
+130,Rio de Janeiro,
+131,Lisboa, Portugal
+132,Madrid, España
+133,Madrid, España
+134,Madrid, España
+135,La Plata,
+136,Austin, Tex
+137,México,
+138,Madrid, España
+139,Bogotá,
+140,Guatemala, Guatemala
+141,Guatemala, C.A.
+142,Rio de Janeiro,
+143,Santiago,
+144,México,
+145,Madrid, España
+146,Barcelona, España
+147,Barcelona, España
+148,Rio de Janeiro,
+149,Tegucigalpa, Hondura
+150,Madrid, España
+151,Barcelona, España
+152,Salamanca,
+153,Recife,
+154,Lima,
+155,Barcelona, España
+156,Mexico, D.F
+157,Barcelona, España
+158,México, D. F.
+159,México,
+160,Valparaíso, Chile
+161,Buenos Aires, Argentina
+162,Madrid, España
+163,Santiago,
+164,Santo Domingo,
+165,Madrid, España
+166,N.a Cáceres,
+167,Rio de Janeiro,
+168,Barcelona, España
+169,Santo Domingo, República Dominicana
+170,Lisboa, Portugal
+171,Rio de Janeiro,
+172,Madrid, España
+173,Lisboa, Portugal
+174,Buenos Aires, Argentina
+175,Barcelona, España
+176,Buenos Aires, Argentina
+177,México,
+178,Barcelona, España
+179,Rio de Janeiro,
+180,San Salvado,
+181,Buenos Aires, Argentina
+182,Santiago de los Caballeros, República Dominicana
+183,Caracas,
+184,México,
+185,Madrid, España
+186,Santa Ana [Guatemala,
+187,San Salvador, El Salvador
+188,México, D.F
+189,Lisboa, Portugal
+190,Madrid, España
+191,Rio de Janeiro,
+192,Lima,
+193,Madrid, España
+194,Barcelona, España
+195,Rio de Janeiro,
+196,Madrid, España
+197,La Paz, Bolivia
+198,Jerez de la Frontera,
+199,Madrid, España
+200,Barcelona, España
+201,Medellín,
+202,Valladolid,
+203,Madrid, España
+204,Barcelona, España
+205,Madrid, España
+206,Buenos Aires, Argentina
+207,Caracas, Venezuela
+208,Sevilla,
+209,Rio de Janeiro,
+210,Barcelona, España
+211,Barcelona, España
+212,Buenos Aires, Argentina
+213,México,
+214,São Paulo, Brasil
+215,La Habana,
+216,Sto. Dgo. [i.e. Santo Domingo], R.D
+217,Belo Horizonte, Brasil
+218,Caracas,
+219,Madrid, España
+220,El Salvador,
+221,Lima,
+222,Rio de Janeiro,
+223,Madrid, España
+224,Guatemala, C.A.
+225,México,
+226,Rio de Janeiro,
+227,Buenos Aires, Argentina
+228,Bogotá,
+229,Buenos Aires, Argentina
+230,Madrid, España
+231,La Paz,
+232,Rio de Janeiro,
+233,Santiago,
+234,Granada,
+235,Porto Alegre, Rio Grande do Sul
+236,Mérida, Venezuela
+237,Chihuahua,
+238,Quito, Ecuador
+239,Santiago, Chile
+240,San Juan de Puerto Rico,
+241,Valladolid,
+242,Rio de Janeiro,
+243,Madrid, España
+244,Buenos Aires, Argentina
+245,Turin,
+246,Buenos Aires, Argentina
+247,Madrid, España
+248,Madrid, España
+249,Moscú,
+250,Madrid, España
+251,Buenos Aires, Argentina
+252,Lima,
+253,Rio de Janeiro,
+254,Valladolid,
+255,Buenos Aires, Argentina
+256,México, D.F
+257,Mejico,
+258,Santiago, Chile
+259,México, D.F
+260,Campinas,
+261,Lisboa, Portugal
+262,Caracas, Venezuela
+263,Lisboa, Portugal
+264,Buenos Aires, Argentina
+265,México, D.F
+266,Buenos Aires, Argentina
+267,Bogotá,
+268,Venezuela,
+269,Santo Domingo,
+270,Rio de Janeiro,
+271,São Paulo-Brasil,
+272,Rio de Janeiro,
+273,Buenos Aires, Argentina
+274,Madrid, España
+275,San Felipe, Venezuela
+276,Spain,
+277,Medellín,
+278,Lima, Perú
+279,Buenos Aires, Argentina
+280,Madrid, España
+281,Barcelona, España
+282,Granada,
+283,Orford, N.H
+284,México,
+285,Bogotá,
+286,Querétaro, Qro
+287,Barcelona, España
+288,Austin, Tex
+289,Rio de Janeiro,
+290,Gautemala,
+291,Madrid, España
+292,Santiago,
+293,Bogotá,
+294,Montserrat,
+295,Habana,
+296,Esplugas de Llobregat, Barcelona
+297,Brasília,
+298,Santiago,
+299,Madrid, España
+300,Porlamar, Tacarigua de Margarita
+301,Cizur Menor, Navarra
+302,Madrid, España
+303,Brasília, Brasil
+304,Paris,
+305,Barcelona, España
+306,Bogotá,
+307,Brasília, Brazil
+308,México,
+309,México,
+310,México,
+311,Valencia,
+312,México,
+313,Bruḳlin,
+314,Asunción,
+315,Montevideo, Uruguay
+316,Madrid, España
+317,São Paulo, Brasil
+318,Bilbao,
+319,Tres Cantos,
+320,Madrid, España
+321,Barcelona, España
+322,Las palmas,
+323,Barcelona, España
+324,Valencia,
+325,México,
+326,Buenos Aires, Argentina
+327,México,
+328,Madrid, España
+329,Quito,
+330,Miami,
+331,Buenos Aires, Argentina
+332,Burgos,
+333,Colombia,
+334,Buenos Aires, Argentina
+335,s. l,
+336,Managua, Nicargua
+337,México,
+338,Buenos Aires, Argentina
+339,Bogotá,
+340,México,
+341,Madrid, España
+342,Barcelona, España
+343,Buenos Aires, Argentina
+344,México,
+345,Panama, Panama
+346,La Paz,
+347,México,
+348,México,
+349,Santiago,
+350,México,
+351,México, D.F
+352,São Paolo,
+353,Madrid, España
+354,São Paulo, Brasil
+355,Lisboa, Portugal
+356,Montevideo,
+357,Bogota, Colombia
+358,Lisboa, Portugal
+359,Madrid, España
+360,New York, NY
+361,México,
+362,Bogotá, Colombia
+363,Santiago,
+364,Barcelona, España
+365,Talavera de la Reina,
+366,São Paulo, Brasil
+367,México,
+368,Sao Paulo, Brazil
+369,Ginebra,
+370,Madrid, España
+371,,
+372,Cuenca, Ecuador
+373,,
+374,México,
+375,São Paulo, Brasil
+376,México,
+377,Buenos Aires, Argentina
+378,Aguascalientes, Ags. 
+379,San José, Costa Rica
+380,Venezuela,
+381,São Paulo, Brasil
+382,México, D.F
+383,Barcelona, España
+384,Barcelona, España
+385,Badalona, Barcelona
+386,Vic (Barcelona,
+387,Santiago,
+388,Santiago,
+389,La Habana,
+390,São Paulo, Brasil
+391,Ribeirão Preto,
+392,Ribeirão Preto,
+393,São Paulo, Brasil
+394,Barueri,
+395,La Laguna,
+396,,
+397,Lisboa, Portugal
+398,São Paulo, Brasil
+399,São Paulo, Brasil
+400,São Paulo, Brasil
+401,Santa Fé,
+402,Madrid, España
+403,Lisboa, Portugal
+404,Lima,
+405,México,
+406,La Habana, Cuba
+407,Guatemala, Guatemala
+408,Buenos Aires, Argentina
+409,Manila,
+410,Lima,
+411,Buenos Aires, Argentina
+412,,
+413,Caracas, Venezuela
+414,Santiago,
+415,Guayaquil,
+416,Buenos Aires, Argentina
+417,Place of publication not identified,
+418,Puebla,
+419,Montevideo, Uruguay
+420,México, D.F
+421,Barcelona, España
+422,Tetuán,
+423,,
+424,La Habana,
+425,Madrid, España
+426,Lisboa, Portugal
+427,Esplugues de Llobregat, Barcelona
+428,Guatemala, Guatemala
+429,Chapel Hill,
+430,México,
+431,Coyoacán,
+432,Guayaquil,
+433,Puebla, Méx
+434,Buenos Aires, Argentina
+435,Lisboa, Portugal
+436,Miami, FL
+437,Manizales, Colombia
+438,Guatemala, Guatemala
+439,Montevideo,
+440,Place of publication not identified,
+441,Madrid, España
+442,Pamplona,
+443,México, D.F
+444,Rio de Janeiro,
+445,Santiago, Chile
+446,Place of publication not identified,
+447,Asunción,
+448,Quito, Ecuador
+449,Lima,
+450,Santiago, Chile
+451,San José, Costa Rica
+452,Rio de Janeiro,
+453,Bethesda, MD
+454,Miami, FL
+455,Barcelona, España
+456,Buenos Aires, Argentina
+457,"Ciudad Universitaria ""Rodrigo Facio"" [Costa Rica",
+458,Santiago, Chile
+459,São Paulo, Brasil
+460,México,
+461,Place of publication not identified,
+462,Madrid, España
+463,México,
+464,Lima,
+465,Santiago, Chile
+466,Coimbra,
+467,Bilbao [Spain,
+468,Brasília,
+469,Comayagua,
+470,Madrid, España
+471,Madrid, España
+472,Ciudad de México,
+473,Madrid, España
+474,México,
+475,México,
+476,Tegucigalpa,
+477,Lisboa, Portugal
+478,Buenos Aires, Argentina
+479,Lima, Perú
+480,Barcelona, España
+481,Bogotá,
+482,Santiago, Chile
+483,Rio de Janeiro,
+484,Santiago, Chile
+485,México,
+486,México,
+487,Madrid, España
+488,Badalona,
+489,Barcelona, España
+490,Buenos Aires, Argentina
+491,Washington, D.C
+492,Barcelona, España
+493,Juliaca, Peru
+494,Quito,
+495,São Paulo, Brasil
+496,Río Piedras, P.R.
+497,Jiquilpan, México
+498,Brasília, Brasil
+499,Río Piedras, P.R.
+500,Santiago, Chile
+501,Barcelona, España
+502,México,
+503,Rio de Janeiro,
+504,Rio de Janeiro,
+505,Rio de Janeiro,
+506,Lisboa, Portugal
+507,Barcelona, España
+508,Madrid, España
+509,Buenos Aires, Argentina
+510,Santiago, Chile
+511,Salvador, BA
+512,Santo Domingo de Guzmán,
+513,Coimbra,
+514,Madrid, España
+515,Rio de Janeiro,
+516,Recife,
+517,Lisboa, Portugal
+518,Place of publication not identified,
+519,Lima, Perú
+520,Buenos Aires, Argentina
+521,Medellín, Colombia
+522,Barcelona, España
+523,Madrid, España
+524,México, D.F
+525,São Paulo, Brasil
+526,México, D.F
+527,Rio de Janeiro,
+528,Madrid, España
+529,Madrid, España
+530,Rio de Janeiro,
+531,Lisboa, Portugal
+532,La Paz,
+533,,
+534,Sao Paulo, Brazil
+535,Caracas,
+536,Buenos Aires, Argentina
+537,Buenos Aires, Argentina
+538,Madrid, España
+539,Montevideo,
+540,México,
+541,Rio de Janeiro,
+542,Barcelona, España
+543,La Habana,
+544,Buenos Aires, Argentina
+545,Buenos Aires, Argentina
+546,Madrid, España
+547,Santiago, Chile
+548,Madrid, España
+549,Madrid, España
+550,Rio de Janeiro,
+551,Quito,
+552,Montevideo, Uruguay
+553,Rio de Janeiro,
+554,Reading, Mass
+555,Lima, Perú
+556,Cuzco,
+557,Rio de Janeiro,
+558,Santiago, Chile
+559,Bogotá, Colombia
+560,Mexicali,
+561,Madrid, España
+562,Campina Grande,
+563,Montevideo,
+564,Rio de Janeiro,
+565,Santiago, República Dominicana
+566,Buenos Aires, Argentina
+567,Porto,
+568,Estados Unidos,
+569,Buenos Aires, Argentina
+570,Alicante,
+571,Madrid, España
+572,Veracruz, México
+573,Barcelona, España
+574,México, D.F
+575,México, D.F
+576,Madrid, España
+577,Madrid, España
+578,Valencia,
+579,Las Palmas,
+580,Bogotá,
+581,Lisboa, Portugal
+582,Maputo,
+583,Rio de Janeiro,
+584,Uruguay,
+585,Bogotá, Colombia
+586,Quito, Ecuador
+587,Madrid, España
+588,San Jose, Costa Rica
+589,Río Piedras, P.R.
+590,Madrid, España
+591,Madrid-Barcelona,
+592,Buenos Aires, Argentina
+593,Place of publication not identified,
+594,São Paulo, Brasil
+595,Xalapa, México
+596,Austin, Tex
+597,São Paulo, Brasil
+598,Curitiba,
+599,Buenos Aires, Argentina
+600,Caracas,
+601,Mérida, México
+602,México,
+603,Manresa,
+604,Rio de Janeiro,
+605,Lisboa, Portugal
+606,Belém, Pará
+607,Madrid, España
+608,Loanda,
+609,Madrid, España
+610,Bogotá,
+611,Lisboa, Portugal
+612,Buenos Aires, Argentina
+613,Pamplona,
+614,Madrid, España
+615,Friburgo, Suiza
+616,Madrid, España
+617,Caracas,
+618,Buenos Aires, Argentina
+619,Buenos Aires, Argentina
+620,Caracas,
+621,Lisboa, Portugal
+622,Lisboa, Portugal
+623,Washington, D.C
+624,Buenos Aires, Argentina
+625,Ilhéus,
+626,Lima,
+627,Buenos Aires, Argentina
+628,Buenos Aires, Argentina
+629,Lima, Perú
+630,San Jose, Costa Rica
+631,Lisboa, Portugal
+632,Madrid, España
+633,Barcelona, España
+634,Valencia,
+635,Caracas,
+636,Madrid, España
+637,Havana,
+638,San Juan,
+639,Madrid, España
+640,Buenos Aires, Argentina
+641,México, D. F.
+642,Buenos Aires, Argentina
+643,Mexico, D.F
+644,Esplugues de Llobregat,
+645,Barcelona, España
+646,Santiago, Chile
+647,Habana,
+648,México, D. F.
+649,Barcelona, España
+650,Quito,
+651,São Paulo, Brasil
+652,Santander,
+653,Place of publication not identified,
+654,Madrid, España
+655,Barcelona, España
+656,Montevideo,
+657,Salamanca,
+658,Madrid, España
+659,Caracas,
+660,Madrid, España
+661,Valparaiso,
+662,Barcelona, España
+663,México,
+664,Lisboa, Portugal
+665,Madrid, España
+666,Buenos Aires, Argentina
+667,Medellín,
+668,Barcelona, España
+669,Valladolid,
+670,Toledo,
+671,San José, Costa Rica
+672,Lima,
+673,Tafalla, Spain
+674,Rio de Janeiro,
+675,Madrid, España
+676,Chilpancingo, Guerrero
+677,Sevilla,
+678,Madrid, España
+679,La Paz, Bolivia
+680,Quito,
+681,Huancayo,
+682,Barcelona, España
+683,Barcelona, España
+684,México,
+685,Caracas,
+686,Barcelona, España
+687,Madrid, España
+688,London,
+689,San José, Costa Rica
+690,Bilbao,
+691,Barcelona, España
+692,Montevideo,
+693,,
+694,Buenos Aires, Argentina
+695,Cárdenas,
+696,Madrid, España
+697,Santander,
+698,San José, C.R.
+699,Guatemala, Guatemala
+700,La Paz, Bolivia
+701,Arizpe, México
+702,Lima,
+703,Lisboa, Portugal
+704,Spain,
+705,Bogota,
+706,Santa Fe,
+707,Évora,
+708,Caracas,
+709,Barcelona, España
+710,Morrisville, N.C
+711,Madrid, España
+712,São Paulo, Brasil
+713,México,
+714,Lima,
+715,La Habana,
+716,Santiago, Chile
+717,Sao Paulo, Brasil
+718,México,
+719,Caracas, Venezuela
+720,Guatemala, Guatemala
+721,Montevideo, Uruguay
+722,s.l. : I.N.A.L.D.,1988
+723,Lisbon,
+724,Montevideo,
+725,Montevideo,
+726,Madrid, España
+727,Arecibo, P.R
+728,Barcelona, España
+729,Rio de Janeiro,
+730,,
+731,São Paulo, Brasil
+732,México,
+733,Buenos Aires, Argentina
+734,Bruselas,
+735,La Paz, Bolivia
+736,Buenos Aires, Argentina
+737,Porto Alegre,
+738,Buenos Aires, Argentina
+739,Lima,
+740,Rio de Janeiro,
+741,México,
+742,Barcelona, España
+743,Guatemala, Guatemala
+744,Toluca, Estado de México
+745,São Paulo-SP,
+746,Santiago,
+747,Madrid, España
+748,Lisboa, Portugal
+749,San Salvado,
+750,Rio de Janeiro,
+751,Buenos Aires, Argentina
+752,México,
+753,Praga,
+754,Esplugues de Llobregat, Barceolna
+755,Recife,
+756,Buenos Aires, Argentina
+757,Buenos Aires, Argentina
+758,Lima,
+759,Barcelona, España
+760,Buenos Aires, Argentina
+761,Madrid, España
+762,Miami, FL
+763,Barcelona, España
+764,Lisboa, Portugal
+765,Madrid, España
+766,Huesca,
+767,Barcelona, España
+768,Rio de Janeiro,
+769,São Paulo, Brasil
+770,Madrid, España
+771,Barcelona, España
+772,Barcelona, España
+773,Rio de Janerio, Brasil
+774,Montevideo,
+775,Lisboa, Portugal
+776,Lima,
+777,La Habana,
+778,Madrid, España
+779,Lisboa, Portugal
+780,Barcelona, España
+781,León [Spain,
+782,Montevideo,
+783,México,
+784,Lima,
+785,Barcelona, España
+786,São Paulo, Brasil
+787,Habana,
+788,México,
+789,São Paulo, Brasil
+790,Madrid, España
+791,México,
+792,Puebla,
+793,Bogotá,
+794,Lisboa, Portugal
+795,Pontevedra,
+796,Conceição  do Castelo, ES
+797,Madrid, España
+798,Habana,
+799,Peru,
+800,Madrid, España
+801,Valencia,
+802,Lisboa, Portugal
+803,Lleida,
+804,Place of publication not identified,
+805,,
+806,Place of publication not identified,
+807,Bogotá,
+808,Buenos Aires, Argentina
+809,Bogotá,
+810,Madrid, España
+811,Barcelona, España
+812,Madrid, España
+813,,
+814,México, D.F
+815,São Paulo, Brasil
+816,Madrid, España
+817,Buenos Aires, Argentina
+818,,
+819,,
+820,,
+821,,
+822,San Juan, P.R
+823,La Habana, Cuba
+824,Paris, France
+825,Buenos Aires, Argentina
+826,San José,
+827,Barcelona, España
+828,Santiago, Chile
+829,Mexico, D.F
+830,,
+831,Rio de Janeiro, RJ
+832,Rio de Janeiro, RJ
+833,Spain,
+834,,
+835,,
+836,,
+837,,
+838,Bahia,
+839,Place of publication not identified,
+840,,
+841,Montevideo,
+842,Medellín,
+843,Barcelona, España
+844,Puerto Rico,
+845,Asunción,
+846,La Paz,
+847,Pozuelo de Alarcón,
+848,Sevilla,
+849,Madrid, España
+850,Madrid, España
+851,Majadahonda (Madrid,
+852,Madrid, España
+853,Madrid, España
+854,Barcelona, España
+855,Caracas, Venezuela
+856,México,
+857,Los Angeles, Calif
+858,São Paulo, Brasil
+859,Madrid, España
+860,San Luis Potosí,
+861,Vilafranca del Penadés [Espanya,
+862,São Paulo, Brasil
+863,S. Paolo,
+864,Sevilla,
+865,Rio de Janeiro,
+866,Rio de Janeiro,
+867,,
+868,Santiago, Chile
+869,Buenos Aires, Argentina
+870,Madrid, España
+871,Buenos Aires, Argentina
+872,Porto,
+873,Bogota,
+874,Guatemala, Guatemala
+875,Washington, D.C
+876,Bogota,
+877,Madrid, España
+878,Sucre, Bolivia
+879,México,
+880,México,
+881,México,
+882,Barcelona, España
+883,Aranguren,
+884,Barcelona, España
+885,Brasília,
+886,Montevideo, Rep. Oriental del Uruguay
+887,Washington,
+888,Lima,
+889,Rio de Janeiro,
+890,Barcelona, España
+891,João Pessoa,
+892,Sao Paulo,
+893,Merida, Yucatan
+894,Santiago, Chile
+895,Barcelona, España
+896,Medellin,
+897,London,
+898,Ciudad de La Habana,
+899,México,
+900,Buenos Aires, Argentina
+901,Porto Alegre, Rio Grande do Sul
+902,Buenos Aires, Argentina
+903,Rio de Janeiro,
+904,Buenos Aires, Argentina
+905,Granada,
+906,,
+907,Madrid, España
+908,,
+909,Cochabamba, Bolivia
+910,México,
+911,Barcelona, España
+912,Rio de Janeiro,
+913,Mem Martins [Lisbon] Portugal,
+914,Barcelona, España
+915,Lima, Perú
+916,Zaragoza,
+917,Porto Alegre,
+918,Xochimilco, D.F
+919,México,
+920,Santiago, Chile
+921,México,
+922,Bogota,
+923,Uberlandia, MG
+924,Hermosillo,
+925,Rio de Janeiro,
+926,Em Vienna,
+927,Brasília,
+928,Caracas,
+929,São Paulo, Brasil
+930,Culiacán Rosales, México
+931,,
+932,Madrid, España
+933,Barcelona,España
+934,Madrid, España
+935,Managua,
+936,Santiago, Chile
+937,Barcelona, España
+938,México,
+939,México,
+940,Madrid, España
+941,Barcelona, España
+942,Madrid, España
+943,Rio de Janeiro, Brasil
+944,Madrid, España
+945,Tarragona,
+946,Rio de Janeiro,
+947,Madrid, España
+948,Rio de Janeiro,
+949,Buenos Aires, Argentina
+950,São Paulo, Brasil
+951,San José, Costa Rica
+952,México, D.F
+953,San Salvador, etc
+954,Oñate,
+955,México,
+956,México,
+957,Bogotá,
+958,São Paulo, Brasil
+959,Buenos Aires, Argentina
+960,La Plata,
+961,Chihuahua, Chih
+962,Lisboa, Portugal
+963,Madrid, España
+964,Madrid, España
+965,Buenos Aires, Argentina
+966,Rio de Janeiro,
+967,Lima, Perú
+968,Coimbra, Portugal
+969,Brasília,
+970,México,
+971,Eden Prairie, MN
+972,Barcelona, España
+973,Mexico, D.F
+974,Santo Domingo, República Dominicana
+975,La Habana, Cuba
+976,Porto,
+977,Lima,
+978,Rio de Janeiro,
+979,Toluca, Mex
+980,Bogotá,
+981,Buenos Aires, Argentina
+982,Santo Domingo, Rep. Dom
+983,Buenos Aires, Argentina
+984,México,
+985,La Paz, Bolivia
+986,Recife,
+987,México,
+988,Buenos Aires, Argentina
+989,Buenos Aires, Argentina
+990,Lisboa, Portugal
+991,São Paulo, Brasil
+992,Madrid, España
+993,México,
+994,São Paulo, Brasil
+995,São Paulo, Brasil
+996,Rio de Janeiro,
+997,São Paulo, Brasil
+998,São Paulo, Brasil
